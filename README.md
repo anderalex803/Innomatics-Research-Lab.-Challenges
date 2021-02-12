@@ -1,4 +1,4 @@
-# Innomatics-Research-Lab.-Challenges
+# Innomatics-Research-Lab.-Challenge
 
 #innominions_challenge_one                                                                                                                                               
 #knn_from_scratch_in_9_hours 🏃 ♀ 💨
