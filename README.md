@@ -18,4 +18,4 @@ What’s in it for you?
 1. Explore, Compete and Learn 
 2. One lucky participant will get a pizza party 🍕 
 3. One lucky winner will receive a movie ticket 🎫 
-4. One lucky winner will get a chance to interview with us 
+4. One lucky winner will get a chance to interview with us 🍧 
